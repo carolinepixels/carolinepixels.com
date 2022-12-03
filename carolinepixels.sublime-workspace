@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-bas",
+				"text-primary_base"
+			],
+			[
+				"text",
+				"text-secondary_lightest"
+			],
+			[
+				"bg-secondar",
+				"bg-secondary_dark"
+			],
+			[
+				"cen",
+				"items-center"
+			],
+			[
+				"bg-co",
+				"bg-secondary_dark"
+			],
+			[
+				"tex",
+				"text-white"
+			],
+			[
+				"bg-pri",
+				"bg-primary_dark"
+			],
+			[
+				"bg-secondary",
+				"bg-secondary_darkest"
+			],
+			[
+				"prod",
+				"product-teams"
+			],
+			[
+				"text-seco",
+				"text-secondary_lightest"
+			],
+			[
+				"text-ge",
+				"text-secondary_lightest"
+			],
+			[
+				"text-secondary",
+				"text-secondary_light"
+			],
+			[
+				"rou",
+				"rounded-lg"
+			],
+			[
+				"underli",
+				"underline-offset-4"
+			],
+			[
+				"text-_se",
+				"text-secondary_lightest"
+			],
+			[
+				"bg-secon",
+				"bg-secondary_darkest"
+			],
+			[
+				"text-secondar",
+				"text-secondary_lightest"
+			],
+			[
+				"bg-seco",
+				"bg-secondary_darkest"
+			],
+			[
+				"text-seconda",
+				"text-secondary_darkest"
+			],
+			[
+				"tr",
+				"treatmentroom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"t",
+				"tr"
+			],
+			[
+				"text-secondary_",
+				"text-secondary_lightest"
+			],
+			[
+				"seconda",
+				"text-secondary_light"
+			],
+			[
+				"text-secona",
+				"text-secondary_lightest"
+			],
+			[
+				"fon",
+				"font-medium"
+			],
+			[
+				"text-secoda",
+				"text-secondary_base"
+			],
+			[
+				"text-secon",
+				"text-secondary_light"
+			],
+			[
+				"text-sec",
+				"text-secondary_dark"
+			],
+			[
+				"shadow",
+				"shadow-sm"
+			],
+			[
+				"text-",
+				"text-white"
+			],
+			[
+				"bg-pr",
+				"bg-primary_base"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/carolinesmith/Code/Carolinepixels/carolinepixels",
+		"/Users/carolinesmith/Code/Carolinepixels/carolinepixels/src",
+		"/Users/carolinesmith/Code/Carolinepixels/carolinepixels/src/_includes"
+	],
+	"file_history":
+	[
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/src/_includes/footer.html",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/src/_includes/header.html",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/src/_includes/base.html",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/src/index.html",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/tailwind.config.js",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/src/policies.html",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/src/_includes/hero.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/package.json",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/src/_includes/_sections/hero",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/src/waitlist.html",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/marketing-site/README.md",
+		"/Users/carolinesmith/Code/Carolinepixels/flagfox/sturdy-waffle/README.md",
+		"/Users/carolinesmith/Desktop/static-flagfox.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-hydro-running.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/plantsfauxlife/config/settings_data.json",
+		"/Users/carolinesmith/Code/Carolinepixels/plantsfauxlife/config/settings_schema.json",
+		"/Users/carolinesmith/Code/Carolinepixels/plantsfauxlife/templates/product.json",
+		"/Users/carolinesmith/Code/Carolinepixels/plantsfauxlife/sections/main-collection-product-grid.liquid",
+		"/Users/carolinesmith/Code/Carolinepixels/sturdy-waffle/tailwind.config.js",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-hydro-running-individual-3.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-hydro-running-individual-5.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/partials/_header.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-personal-training.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-physiotherapy.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-swim-analysis.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-triathlon-coaching.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-female-athlete-consultation.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-pricing.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-triathlon-coaching-package-advance.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-triathlon-coaching-package-standard.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-triathlon-coaching-package-expert.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-options.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_site/css/custom.css",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/tailwind.config.js",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-female-athlete-consultation-individual-1.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_site/css/styles.css",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/layouts/base.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/tailwind.css",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-physiotherapy-individual-1.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-hydro-running-individual-1.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-swim-analysis-individual-1.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-personal-training-individual-1.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-personal-training-package-basics.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-personal-training-package-plus.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-swim-analysis-package-basics.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-swim-analysis-individual-5.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-swim-analysis-individual-1-physio.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-swim-analysis-package-plus.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-swim-single-1.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-personal-basics.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-swim-basics.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/button-swim-plus.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-contact.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/partials/_footer.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-team.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-facilities.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/hero.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-policies.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-about.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/policies.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/about-individual-panel.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/index.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/about-group-section.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-services.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/services-group-section.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/about.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/block-testimonial.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/meet-the-team.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/facilities.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-meet-the-team.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/platypus/_includes/partials/_footer.html",
+		"/Users/carolinesmith/Code/Carolinepixels/platypus/index.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/platypus/README.md",
+		"/Users/carolinesmith/Code/Carolinepixels/platypus/_includes/partials/_sidebar-navigation.html",
+		"/Users/carolinesmith/Code/Carolinepixels/platypus/tailwind.css",
+		"/Users/carolinesmith/Code/Carolinepixels/platypus/package.json",
+		"/Users/carolinesmith/Code/Carolinepixels/platypus/package-lock.json",
+		"/Users/carolinesmith/Code/Amiqus/aqid/resources/assets/js/components/documents/Editor.vue",
+		"/Users/carolinesmith/Code/Amiqus/aqid/resources/assets/js/components/documents/Index.vue",
+		"/Users/carolinesmith/Library/Application Support/Sublime Text/Installed Packages/VueFormatter.sublime-package/VUEFormatter.sublime-settings",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/hero.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/female-athlete-consultation.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/netlify.toml",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/hydro-running.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/block-why-trinetic.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/triathlon-coaching.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/block-testimonial.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/block-cta-ethos.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-ethos.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/hero-services.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/ethos.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/team.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/contact.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/team.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/ethos.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-underwater-treadmill.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/underwater-treadmill.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-nutrition.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/page-female-athlete-performance.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/female-athlete-performance.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/personal-training.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/nutrition.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/physiotherapy.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/services-overview.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/services-individual-panel.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/services.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/why-trinetic.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/testimonial.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/cta-ethos.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/logo-cloud.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/banner.html",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/block-service.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/assets/xoi.svg",
+		"/Users/carolinesmith/Code/Carolinepixels/crazy-pickle/_includes/sections/cta-find-out-how.html",
+		"/Users/carolinesmith/Code/Carolinepixels/grumpy-lobster/next.config.js",
+		"/Users/carolinesmith/Code/Carolinepixels/grumpy-lobster/tailwind.config.js",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/.eleventy.js",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/_site/README/index.html",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/404.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/_site/404.html",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/_includes/sections/why-trinetic.html",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/_includes/sections/page-triathlon-coaching.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/_includes/sections/hero-services.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/swim-analysis.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/triathlon-coaching.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/index.njk",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/_includes/sections/incentives.html",
+		"/Users/carolinesmith/Code/Carolinepixels/trinetic/_includes/sections/page-swim-analysis.njk"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "carolinepixels.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 305.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
