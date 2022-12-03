@@ -40,16 +40,37 @@ module.exports = {
       fuchsia: colors.fuchsia,
       pink: colors.pink,
       rose: colors.rose,
-      primary_darkest: '#881337', /* Rose 900 */
-      primary_dark: '#be123c', /* Rose 700 */
-      primary_base: '#e11d48', /* Rose 600 */
-      primary_light: '#fb7185', /* Rose 400 */
-      primary_lightest: '#fecdd3', /* Rose 200 */
-      secondary_darkest: '#0f172a', /* Slate 900 */
-      secondary_dark: '#1e293b', /* Slate 800 */
-      secondary_base: '#475569', /* Slate 600 */
-      secondary_light: '#94a3b8', /* Slate 400 */
-      secondary_lightest: '#e2e8f0', /* Slate 200 */
+      primary_darkest: '#881337', 
+      primary_dark: '#be123c', 
+      primary_base: '#e11d48', 
+      primary_light: '#fb7185', 
+      primary_lightest: '#fecdd3', 
+      secondary_darkest: '#0f172a', 
+      secondary_dark: '#1e293b', 
+      secondary_base: '#475569', 
+      secondary_light: '#94a3b8', 
+      secondary_lightest: '#e2e8f0',
+
+      pixels_yellow_light: '#FDF0C2', 
+      pixels_yellow_base: '#FFF0A6', 
+      pixels_yellow_dark: '#F4DD68', 
+
+      pixels_purple_light: '#EDC7DF', 
+      pixels_purple_base: '#CBAFD4', 
+      pixels_purple_dark: '#BF8BCF', 
+
+      pixels_pink_light: '#F8BED0', 
+      pixels_pink_base: '#FB7A9D', 
+      pixels_pink_dark: '#FB6B85', 
+
+      pixels_blue_light: '#ECE6EF', 
+      pixels_blue_base: '#C9D3EC', 
+      pixels_blue_dark: '#8EA7E6', 
+      
+      pixels_green_light: '#CEE6E1', 
+      pixels_green_base: '#8FD1CE', 
+      pixels_green_dark: '#55CFC6', 
+      
     }),
     columns: {
       auto: 'auto',

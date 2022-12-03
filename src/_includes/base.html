@@ -19,14 +19,12 @@
 
   </head>
   <body>
+    <div class="bg-secondary_dark">
+      {% include "header.html" %}
 
-    {% include "header.html" %}
-
-    <main>
       {{ content | safe }}
-    </main>
 
-    {% include "footer.html" %}
-    
+      {% include "footer.html" %}
+    </div>
   </body>
 </html>
