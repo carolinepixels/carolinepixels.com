@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
      <!-- Meta -->
-    <meta name="description" content="It’s (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it’s still really small though.">
+    <meta name="description" content="Indie maker, digital entrepreneur, design mentor, pizza chef, movie buff and mother of cats.">
     <title>{{ title }}</title>
 
     <!-- Styles -->
@@ -16,10 +16,9 @@
     <script defer src="https://unpkg.com/@alpinejs/collapse@3.10.5/dist/cdn.min.js"></script>
     <script defer src="https://unpkg.com/alpinejs@3.10.5/dist/cdn.min.js"></script>
 
-
   </head>
-  <body>
-    <div class="bg-secondary_dark">
+  <body class="bg-secondary_darkest">
+    <div x-cloak x-data="{ openmenu:false }">
       {% include "header.html" %}
 
       {{ content | safe }}
