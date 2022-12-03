@@ -35,6 +35,8 @@ For example; `<div class="bg-secondary_darkest text-primary_lightest">Hello worl
 - `secondary_lightest: '#e2e8f0'`
 
 ### Custom colors
+
+#### Yellow
 - `pixels_yellow_light: '#FDF0C2'` 
 - `pixels_yellow_base: '#FFF0A6'` 
 - `pixels_yellow_dark: '#F4DD68'` 
