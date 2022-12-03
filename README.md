@@ -40,15 +40,19 @@ For example; `<div class="bg-secondary_darkest text-primary_lightest">Hello worl
 - `pixels_yellow_light: '#FDF0C2'` 
 - `pixels_yellow_base: '#FFF0A6'` 
 - `pixels_yellow_dark: '#F4DD68'` 
+#### Purple
 - `pixels_purple_light: '#EDC7DF'` 
 - `pixels_purple_base: '#CBAFD4'` 
 - `pixels_purple_dark: '#BF8BCF'` 
+#### Pink
 - `pixels_pink_light: '#F8BED0'` 
 - `pixels_pink_base: '#FB7A9D'` 
 - `pixels_pink_dark: '#FB6B85'` 
+#### Blue
 - `pixels_blue_light: '#ECE6EF'` 
 - `pixels_blue_base: '#C9D3EC'` 
 - `pixels_blue_dark: '#8EA7E6'` 
+#### Green
 - `pixels_green_light: '#CEE6E1'` 
 - `pixels_green_base: '#8FD1CE'` 
 - `pixels_green_dark: '#55CFC6'` 
