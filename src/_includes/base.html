@@ -3,13 +3,30 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     <!-- Meta -->
     <meta name="description" content="It’s (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it’s still really small though.">
     <title>{{ title }}</title>
+
+    <!-- Styles -->
     <link rel="stylesheet" href="/css/styles.css">
+
+    <!-- Scripts -->
+    <script defer src="https://unpkg.com/@alpinejs/ui@3.10.5-beta.8/dist/cdn.min.js"></script>
+    <script defer src="https://unpkg.com/@alpinejs/collapse@3.10.5/dist/cdn.min.js"></script>
+    <script defer src="https://unpkg.com/alpinejs@3.10.5/dist/cdn.min.js"></script>
+
+
   </head>
   <body>
+
+    {% include "header.html" %}
+
     <main>
       {{ content | safe }}
     </main>
+
+    {% include "footer.html" %}
+    
   </body>
 </html>
